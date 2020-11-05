@@ -1,2 +1,0 @@
-# jewelsoutreach
-JEWELS Outreach website
